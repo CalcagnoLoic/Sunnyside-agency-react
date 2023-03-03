@@ -1,5 +1,6 @@
 import Header from "./header";
 import { SectionTransform } from "./sectionTransform";
+import { SectionAudience } from "./sectionAudience";
 
 const App = () => {
   return (
@@ -7,6 +8,7 @@ const App = () => {
       <Header />
       <section>
         <SectionTransform />
+        <SectionAudience />
       </section>
     </div>
   );
