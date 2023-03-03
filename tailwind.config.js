@@ -16,9 +16,6 @@ module.exports = {
         'Dark-grayish-blue': 'hsl(232, 10%, 55%)',
         'Grayish-blue': 'hsl(210, 4%, 67%)',
       },
-      screens: {
-        'lg': '1440px',
-      } ,
       fontFamily: {
         barlow: ['Barlow'],
         fraunces: ['Fraunces'],
