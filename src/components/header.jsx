@@ -17,7 +17,7 @@ const Header = () => {
                         <p className='text-white'>Projecs</p>
                     </div>
                     <div className='self-center font-fraunces'>
-                        <button className='text-Dark-blue color-white bg-white px-8 py-4 rounded-full uppercase font-semibold hover:text-white hover:bg-sky-300'>Contact</button>
+                        <button className='text-Dark-blue color-white bg-white px-8 py-4 rounded-full uppercase font-semibold hover:text-white hover:bg-sky-300 duration-1000'>Contact</button>
                     </div>
                 </div>
             </nav>
