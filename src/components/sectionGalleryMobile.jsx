@@ -3,6 +3,7 @@ import { dataGalleryMobile } from "../assets/data/dataGallery"
 
 
 const SectionGalleryMobile = () => {
+    // eslint-disable-next-line
     const [gallery, setGallery] = useState(dataGalleryMobile)
 
     return (

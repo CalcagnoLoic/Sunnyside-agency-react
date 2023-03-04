@@ -2,6 +2,7 @@ import { dataGalleryDesktop } from "../assets/data/dataGallery";
 import { useState } from "react";
 
 const SectionGalleryDesktop = () => {
+    // eslint-disable-next-line
     const [gallery, setGallery] = useState(dataGalleryDesktop)
 
     return (
