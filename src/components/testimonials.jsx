@@ -8,7 +8,7 @@ const Testimonial = () => {
     return (
         <div>
             <h2 className="py-20 md:py-30 text-center uppercase text-xl font-bold text-Dark-grayish-blue tracking-widest pb-16">Client Testimonials</h2>
-            <div className="grid grid-rows-3 lg:grid-cols-3 md:h-[350px]">
+            <div className="grid grid-rows-3 lg:grid-cols-3 lg:h-[350px]">
                 {cards.map(({id, image, message, job, name}) => (
                     <article key={id} className='flex flex-col last:mb-8 '>
                         <img src={image} alt='Illustration of testimonial' className="rounded-full w-16 container mx-auto mb-6" />
