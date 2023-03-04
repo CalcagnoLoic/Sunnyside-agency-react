@@ -8,7 +8,7 @@ const Header = () => {
             <nav className='p-10 flex justify-between'>
                 {/* Navbar in desktop view*/}
                 <div className='self-center'>
-                    <img src={logo} alt="Logo sunnyside" className='w-64'/>
+                    <img src={logo} alt="Logo sunnyside" className='md:w-64 w-32'/>
                 </div>
                 <div className='md:flex gap-12 hidden self-center font-barlow'>
                     <div className='text-white flex gap-12 self-center'>

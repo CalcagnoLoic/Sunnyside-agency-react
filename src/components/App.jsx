@@ -5,6 +5,7 @@ import { Section } from "./section";
 import { SectionGalleryDesktop } from "./sectionGalleryDesktop";
 import { SectionGalleryMobile } from "./sectionGalleryMobile";
 import { Footer } from "./footer";
+import { Testimonial } from "./testimonials";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <SectionTransform />
         <SectionAudience />
         <Section />
+        <Testimonial />
         <div className="hidden md:block">
           <SectionGalleryDesktop />
         </div>
