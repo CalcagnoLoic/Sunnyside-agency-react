@@ -3,10 +3,10 @@ import pictureTransformDesktop from '../assets/images/desktop/image-transform.jp
 
 const SectionTransform = () => {
     return (
-        <section className='md:flex flex-row-reverse xl:justify-center'>
-            <div className='md:w-1/2 basis-1/2 xl:self-center'>
+        <section className='md:flex flex-row-reverse'>
+            <div className='basis-1/2 self-center'>
                 <img src={pictureTransform} alt="Illustration from 'Transform your brand' section" className='md:hidden'/>
-                <img src={pictureTransformDesktop} alt="Illustration from 'Transform your brand' section" className='hidden md:block md:basis-1/2'/>
+                <img src={pictureTransformDesktop} alt="Illustration from 'Transform your brand' section" className='hidden md:block w-full'/>
             </div>
             
             <div className='md:w-1/2 flex flex-col px-8 py-8 md:px-8 lg:px-24 basis-1/2 self-center'>

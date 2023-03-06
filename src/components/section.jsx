@@ -10,7 +10,7 @@ const Section = () => {
             <article className='basis-1/2 relative'>
                 <div >
                     <img src={pictureGraphicDesign} alt="Background for 'Graphic design' section" className='md:hidden w-full'/>
-                    <img src={pictureGraphicDesignDesktop} alt="Background for 'Graphic design' section" className='hidden md:block'/>
+                    <img src={pictureGraphicDesignDesktop} alt="Background for 'Graphic design' section" className='hidden md:block w-full'/>
                 </div>
                 <div className='absolute bottom-10 text-center lg:px-10 xl:px-40'>
                     <h2 className='text-3xl font-bold my-4 text-Dark-desaturated-cyan'>Graphic Design</h2>
@@ -21,7 +21,7 @@ const Section = () => {
             <article className='basis-1/2 relative'>
                 <div>
                     <img src={picturephotography} alt="Background for 'Photography' section" className='md:hidden'/>
-                    <img src={picturephotographyDesktop} alt="Background for 'Photography' section" className='hidden md:block'/>
+                    <img src={picturephotographyDesktop} alt="Background for 'Photography' section" className='hidden md:block w-full'/>
                 </div>
                 <div className='absolute bottom-10 text-center lg:px-10 xl:px-40'>
                     <h2 className='text-3xl font-bold my-4 text-Dark-desaturated-cyan'>Photography</h2>

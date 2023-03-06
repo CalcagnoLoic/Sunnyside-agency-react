@@ -3,10 +3,10 @@ import pictureAudienceDesktop from '../assets/images/desktop/image-stand-out.jpg
 
 const SectionAudience = () => {
     return(
-        <section className='md:flex flex-row xl:justify-center '>
-            <div className='md:w-1/2 basis-1/2'>
+        <section className='md:flex flex-row '>
+            <div className='basis-1/2 self-center'>
                 <img src={pictureAudience} alt="Illustration from 'Audience' section" className='md:hidden'/>
-                <img src={pictureAudienceDesktop} alt="Illustration from 'Audience' section" className='hidden md:block '/>
+                <img src={pictureAudienceDesktop} alt="Illustration from 'Audience' section" className='hidden md:block w-full'/>
             </div>
             
             <div className='md:w-1/2 flex flex-col px-8 py-8 md:px-8 lg:px-24 basis-1/2 self-center'>
