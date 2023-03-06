@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sunnyside-agency-react/static/css/main.95bca64b.css",
+    "main.js": "/Sunnyside-agency-react/static/js/main.aab4b7f8.js",
+    "static/js/787.26788e5c.chunk.js": "/Sunnyside-agency-react/static/js/787.26788e5c.chunk.js",
+    "static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf": "/Sunnyside-agency-react/static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.19cbf8c91fa01353cf81.ttf",
+    "static/media/Barlow-SemiBold.ttf": "/Sunnyside-agency-react/static/media/Barlow-SemiBold.8247eaeb0799c0acafc6.ttf",
+    "static/media/image-header.jpg": "/Sunnyside-agency-react/static/media/image-header.9167cda0c72b56b2cda5.jpg",
+    "static/media/image-graphic-design.jpg": "/Sunnyside-agency-react/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/Sunnyside-agency-react/static/media/image-photography.104cf40b52f66520afb0.jpg",
+    "static/media/logo.svg": "/Sunnyside-agency-react/static/media/logo.4271b8992622e4dd1cc7de08466dab06.svg",
+    "static/media/icon-instagram.svg": "/Sunnyside-agency-react/static/media/icon-instagram.7d97118aca6da4dd308fbe5b0ad8b9d6.svg",
+    "static/media/icon-pinterest.svg": "/Sunnyside-agency-react/static/media/icon-pinterest.fd8b84da3f15023f2ae8d359495f43db.svg",
+    "index.html": "/Sunnyside-agency-react/index.html",
+    "static/media/icon-twitter.svg": "/Sunnyside-agency-react/static/media/icon-twitter.23df5d421d6e70c35715be06e375f403.svg",
+    "static/media/icon-facebook.svg": "/Sunnyside-agency-react/static/media/icon-facebook.101bd07e99eaeae8b0f594d4908d92b0.svg",
+    "static/media/icon-arrow-down.svg": "/Sunnyside-agency-react/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
+    "static/media/icon-hamburger.svg": "/Sunnyside-agency-react/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
+    "main.95bca64b.css.map": "/Sunnyside-agency-react/static/css/main.95bca64b.css.map",
+    "main.aab4b7f8.js.map": "/Sunnyside-agency-react/static/js/main.aab4b7f8.js.map",
+    "787.26788e5c.chunk.js.map": "/Sunnyside-agency-react/static/js/787.26788e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95bca64b.css",
+    "static/js/main.aab4b7f8.js"
+  ]
+}
